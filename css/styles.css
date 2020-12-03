@@ -1,3 +1,13 @@
-.red{ 
-    padding: 40px 0 80px
-} 
+div {
+    padding: 70px 100px;
+    background-color: rgba(245, 245, 245, 0.4);
+  }
+
+  .card {
+    border: none;
+
+    background-color: rgba(245, 245, 245, 0.4);
+}
+ .intro{
+     background-color:  rgba(245, 245, 245, 0.4);
+ }
